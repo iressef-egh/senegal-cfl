@@ -26,7 +26,7 @@ This GitHub repository and its contents herein, including all data, mapping, and
 # A consolidated and geolocated list of health facilities in Senegal
 _For the description in English, please see above_
 
-This is a data repository for a consolidated and geolocated facility list in Senegal. It was developed by a collaboration between Institute for Health Research, Epidemiological Surveillance and Training (IRESSEF), Public Health Emergency Operations Center (COUS), Department of Planning, Research, and Statistics (DPRS), National Agency of Statistics and Demography (ANSD), and Exemplars in Global Health (EGH) at Gates Ventures.
+This is a data repository for a consolidated and geolocated facility list in Senegal. It was developed by a collaboration between L'Institut de Recherche en Santé de Surveillance Épidémiologique et de Formation (IRESSEF), Centre des Opérations d'Urgence Sanitaire (COUS), le Département de la Planification de la Recherche et des Statistiques (DPRS), Agence Nationale de Statistique et de la Démographie (ANSD), et Exemplars in Global Health (EGH) chez Gates Ventures.
 
 ## Organization
 **data**: .csv and .xlsx files of current and archived data files.  
