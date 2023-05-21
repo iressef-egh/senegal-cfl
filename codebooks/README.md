@@ -1,1 +1,69 @@
+## Consolidated facility list
+**data**: senegal_consolidated_facilitylist.xlsx
+- **region:** region in Senegal.
+- **match_id:** facility id assigned for each unique facility grouping identified in the consolidated facility list. This identifier links the unique observations found in this dataset to the ‘full’ version of this dataset where all facilities for a given match_id have been matched into match groups.
+    - _Note_: this id does not correspond with a particular data source or formal health information system (e.g., DHIS2).
+- **match_name:** this is the processed version of health facility name used for matching, excluding special characters and variations found across sources. Original facility names, as included by source, can be found under “fac_name_orig” in the “senegal_full_facilitylist.xlsx” dataset. 
+- **group_fac_type:** this is facility type assigned to a unique facility observation. Original facility types may vary by source, of which are listed under “fac_type_orig” in the “senegal_full_facilitylist.xlsx” dataset. Facility types included in this dataset are as follows in French (without special characters), with English translations:
+    - hopital = hospital
+    - centre de sante = health center
+    - poste de sante = health post
+    - case de sante = health hut
+    - autre = other
+- **group_latitude:** assigned latitude coordinates.
+- **group_longitude:** assigned longitude coordinates.
+- **group_gps_source:** source of assigned facility GPS.
+- **n_gps:** number of linked sources with GPS for a unique facility observation.
+- **n_source:** number of linked sources for a unique facility observation.
+- **source_list:** list of sources for a unique facility observation.
+- **data_flagged:** variable whereby “1” indicates outstanding verification needs or follow-up questions.
+- **data_notes:** further detail about outstanding verification needs or follow-up questions about the given facility. All notes are in English at present.
+
+## Full facility list 
+**data:** senegal_facilitylist_full.xlsx
+- **region:** region in Senegal.
+- **department:** formal second-level administrative unit for Senegal, with n=45.
+   - _Note_: Data sources varied in their reporting of departments or health districts (and did not always specify which was included). Mapping capturing department information and accounting for inaccuracies occurred where possible, but some facility-source observations may not have a department included.
+- **health_district:** the peripheral level of Senegal’s health sector, with an n=77 to 79. 
+   - _Note_: Data sources varied in their reporting of departments or health districts (and did not always specify which was included). Mapping from district to department and accounting occurred where possible, but some facility-source observations may not have a health district included. 
+- **match_id:** facility id assigned for each unique facility grouping identified in the consolidated facility list. This identifier links facility groups in this dataset to unique observations found in the consolidated facility list.
+   - _Note_: this id does not correspond with a particular data source or formal health information system (e.g., DHIS2).
+- **match_name:** processed version of the health facility name used for matching, excluding special characters, variations found across sources.
+- **fac_name_orig:** original health facility name, as found in a given facility data source. 
+- **group_fac_type:** this is facility type assigned to a unique facility observation. Original facility types may vary by source, of which are listed under “fac_type_orig.” Facility types included in this dataset are as follows in French (without special characters), with English translations:
+   - hopital = hospital
+   - hentre de sante = health center
+   - poste de sante = health post
+   - case de sante = health hut
+   - autre = other
+- **fac_type_orig:** original facility type, as provided in a given facility data source.
+- **group_fac_own:** processed version of the managing authority for a given facility. Types included in this dataset are as follows in French (without special characters), with English translations:
+   - publique = public
+   - prive = private
+   - ong ou mission/confessionnel = NGO or mission/faith-based
+   - paramilitaire = paramilitary
+- **fac_own_orig**: managing authority for the health facility, as provided in a given facility data source.
+- **latitutde:** latitude coordinates, as provided in a given data source.
+- **longitude:** longitude coordinates, as provided in a given data source.
+- **max_gps_dist:** maximum Haversine distance in kilometers between GPS coordinates for each unique facility grouping. If a facility has only set of GPS coordinates (n_gps==1), this variable is blank. 
+- **source:** facility data source.
+- **data_flagged:** variable whereby “1” indicates outstanding verification needs or follow-up questions.
+- **data_notes:** further detail about outstanding verification needs or follow-up questions about the given facility. All notes are in English at present.
+   - If there is information in “data_notes” but the facility is not flagged (data_flagged==1), these notes are meant to provide additional detail or information about a given facility without immediate action items or follow-up.
+- **decision_notes:** further detail about decisions made for matching facilities and feedback from regional focal points. All notes are in English at present.
+- **last_updated:** date of last update in YYYYMMDD format. For instance, 20230518 is May 18, 2023.
+   - These updates are meant to reflect changes to previous facility matches since the Dakar facility list workshop that occurred from January 31-February 1, 2023.
+- **update_notes:** further detail on the updates that occurred for a unique facility observation. All notes are in English at present.
+- **n_gps:** number of linked sources with GPS for each matched facility group.
+- **n_source:** number of linked sources for each matched facility group.
+- **source_list:** list of sources for each matched facility group.
+- **fac_id:** unique facility id, either directly provided from its original data source or generated in order to provide a unique identifier for each facility observation.
+- **fac_id_orig:** original facility id, as provided in a given facility data source. 
+   - _Note_: most non-survey data sources did not have an original facility id, and thus this variable is blank for them.
+- **fac_id_orig_var:** variable name in which facility ids are contained, as found in a given facility data source.
+   - _Note_: most non-survey data sources did not have an original facility id, and thus this variable is blank for them.
+- **n_geos:** number of department-health district combinations within a matched facility group. This variable was included to more easily identify which matched facilities need further geographic variation, such that:
+   - If n_geos==0, then no department or health district information were included for these facilities.
+   - If n_geos==1, department-health district combinations for a matched facility group exist and are consistent.
+   - If n_geos >1, department-health district combinations vary within a matched facility group and further verification is needed.
 
