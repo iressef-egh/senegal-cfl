@@ -43,7 +43,7 @@
    - ong ou mission/confessionnel = NGO or mission/faith-based
    - paramilitaire = paramilitary
 - **fac_own_orig**: managing authority for the health facility, as provided in a given facility data source.
-- **latitutde:** latitude coordinates, as provided in a given data source.
+- **latitude:** latitude coordinates, as provided in a given data source.
 - **longitude:** longitude coordinates, as provided in a given data source.
 - **max_gps_dist:** maximum Haversine distance in kilometers between GPS coordinates for each unique facility grouping. If a facility has only set of GPS coordinates (n_gps==1), this variable is blank. 
 - **source:** facility data source.
