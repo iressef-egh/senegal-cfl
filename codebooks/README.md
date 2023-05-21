@@ -4,7 +4,7 @@
 - **match_id:** facility id assigned for each unique facility grouping identified in the consolidated facility list. This identifier links the unique observations found in this dataset to the ‘full’ version of this dataset where all facilities for a given match_id have been matched into match groups.
     - _Note_: this id does not correspond with a particular data source or formal health information system (e.g., DHIS2).
 - **match_name:** this is the processed version of health facility name used for matching, excluding special characters and variations found across sources. Original facility names, as included by source, can be found under “fac_name_orig” in the “senegal_full_facilitylist.xlsx” dataset. 
-- **group_fac_type:** this is facility type assigned to a unique facility observation. Original facility types may vary by source, of which are listed under “fac_type_orig” in the “senegal_full_facilitylist.xlsx” dataset. Facility types included in this dataset are as follows in French (without special characters), with English translations:
+- **group_fac_type:** this is the facility type assigned to a unique facility observation. Original facility types may vary by source, of which are listed under “fac_type_orig” in the “senegal_full_facilitylist.xlsx” dataset. Facility types included in this dataset are as follows in French (without special characters), with English translations:
     - hopital = hospital
     - centre de sante = health center
     - poste de sante = health post
@@ -30,7 +30,7 @@
    - _Note_: this id does not correspond with a particular data source or formal health information system (e.g., DHIS2).
 - **match_name:** processed version of the health facility name used for matching, excluding special characters, variations found across sources.
 - **fac_name_orig:** original health facility name, as found in a given facility data source. 
-- **group_fac_type:** this is facility type assigned to a unique facility observation. Original facility types may vary by source, of which are listed under “fac_type_orig.” Facility types included in this dataset are as follows in French (without special characters), with English translations:
+- **group_fac_type:** this is the facility type assigned to a unique facility observation. Original facility types may vary by source, of which are listed under “fac_type_orig.” Facility types included in this dataset are as follows in French (without special characters), with English translations:
    - hopital = hospital
    - hentre de sante = health center
    - poste de sante = health post
