@@ -51,8 +51,8 @@
 - **data_notes:** further detail about outstanding verification needs or follow-up questions about the given facility. All notes are in English at present.
    - If there is information in “data_notes” but the facility is not flagged (data_flagged==1), these notes are meant to provide additional detail or information about a given facility without immediate action items or follow-up.
 - **decision_notes:** further detail about decisions made for matching facilities and feedback from regional focal points. All notes are in English at present.
-- **last_updated:** date of last update in YYYYMMDD format. For instance, 20230518 is May 18, 2023.
-   - These updates are meant to reflect changes to previous facility matches since the Dakar facility list workshop that occurred from January 31-February 1, 2023.
+- **last_updated:** date of last update in YYYYMMDD format. For instance, 20230518 is 18 May 2023.
+   - These updates are meant to reflect changes to previous facility matches since the Dakar facility list workshop that occurred from 31 January to 1 February 2023.
 - **update_notes:** further detail on the updates that occurred for a unique facility observation. All notes are in English at present.
 - **n_gps:** number of linked sources with GPS for each matched facility group.
 - **n_source:** number of linked sources for each matched facility group.
