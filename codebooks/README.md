@@ -17,7 +17,7 @@
 - **n_source:** number of linked sources for a unique facility observation.
 - **source_list:** list of sources for a unique facility observation.
 - **data_flagged:** variable whereby “1” indicates outstanding verification needs or follow-up questions.
-- **data_notes:** further detail about outstanding verification needs or follow-up questions about the given facility. All notes are in English at present.
+- **data_notes:** further detail about outstanding verification needs or follow-up questions about the given facility. _All notes are in English at present._
 
 ## Full facility list 
 **data:** senegal_facilitylist_full.xlsx
@@ -48,12 +48,12 @@
 - **max_gps_dist:** maximum Haversine distance in kilometers between GPS coordinates for each unique facility grouping. If a facility has only set of GPS coordinates (n_gps==1), this variable is blank. 
 - **source:** facility data source.
 - **data_flagged:** variable whereby “1” indicates outstanding verification needs or follow-up questions.
-- **data_notes:** further detail about outstanding verification needs or follow-up questions about the given facility. All notes are in English at present.
+- **data_notes:** further detail about outstanding verification needs or follow-up questions about the given facility. _All notes are in English at present._
    - If there is information in “data_notes” but the facility is not flagged (data_flagged==1), these notes are meant to provide additional detail or information about a given facility without immediate action items or follow-up.
-- **decision_notes:** further detail about decisions made for matching facilities and feedback from regional focal points. All notes are in English at present.
+- **decision_notes:** further detail about decisions made for matching facilities and feedback from regional focal points. _All notes are in English at present._
 - **last_updated:** date of last update in YYYYMMDD format. For instance, 20230518 is 18 May 2023.
    - These updates are meant to reflect changes to previous facility matches since the Dakar facility list workshop that occurred from 31 January to 1 February 2023.
-- **update_notes:** further detail on the updates that occurred for a unique facility observation. All notes are in English at present.
+- **update_notes:** further detail on the updates that occurred for a unique facility observation. _All notes are in English at present._
 - **n_gps:** number of linked sources with GPS for each matched facility group.
 - **n_source:** number of linked sources for each matched facility group.
 - **source_list:** list of sources for each matched facility group.
