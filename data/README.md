@@ -2,7 +2,7 @@
 
 _**21 May 2023**_
 
-The currently available Senegal facility list datasets now include 3 additional data sources, of which were shared following the facility data workshop hosted by IRESSEF and COUS in 31 January-1 February 2023:
+The currently available Senegal facility list datasets now include 3 additional data sources, of which were shared following the facility data workshop hosted by IRESSEF and COUS from 31 January to 1 February 2023:
 - List of hospitals from the Direction Générale des Etablissements de Santé (DGES), year unknown (n=41)
 - Regional facility list from Sedhiou, year unknown (n=180) 
 - Regional facility list from Louga, 2023 (n=509)
