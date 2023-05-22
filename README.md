@@ -1,5 +1,5 @@
 # A consolidated and geolocated list of health facilities in Senegal
-_French translation is coming soon_
+_French translation is coming soon._
 
 This is a data repository for a consolidated and geolocated facility list in Senegal. It was developed by a collaboration between Institute for Health Research, Epidemiological Surveillance and Training (IRESSEF), Department of Planning, Research, and Statistics (DPRS), Public Health Emergency Operations Center (COUS), National Agency of Statistics and Demography (ANSD), and Exemplars in Global Health (EGH) at Gates Ventures.
 
