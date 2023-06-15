@@ -20,7 +20,7 @@ approches et résultats de la triangulation des données existantes sur les éta
 ## Citation
 Veuillez utiliser la citation suivante pour ces données:
 
-Institut de Recherche en Santé, de Surveillance Épidémiologique et de Formation (IRESSEF), Département de la Planification, de la Recherche et des Statistiques (DPRS), Centre des Opérations d’Urgence Sanitaire (COUS), Agence Nationale de Statistique et de la Démographie (ANSD) et Exemplars in Global Health (EGH). Liste consolidée et géolocalisée des établissements de santé au Sénégal. Version du 21 mai 2023.
+Institut de Recherche en Santé, de Surveillance Épidémiologique et de Formation (IRESSEF), Département de la Planification, de la Recherche et des Statistiques (DPRS), Centre des Opérations d’Urgence Sanitaire (COUS), Agence Nationale de Statistique et de la Démographie (ANSD) et Exemplars in Global Health (EGH). Liste consolidée et géolocalisée des établissements de santé au Sénégal. Version du 15 juin 2023.
 
 ## Conditions d'utilisation
 Ce dépôt de données GitHub et son contenu présenté ici, incluant toutes les données, la cartographie et l'analyse, les droits d'auteur 2023 de l'IRESSEF, du DPRS, du COUS, de l'ANSD, et de l'EGH, tous droits réservés, sont fournis au public pour appuyer l’élaboration de politiques, la planification, l'éducation et la recherche universitaire. Le site Web integredes données provenant de plusieurs sources qui peuvent diverger. Nous déclinons par la présente toute responsabilité et garantie concernant le site Web, y compris son exactitude, son aptitude à l'usage et sa qualité marchande. Il est strictement interdit de recourir au site Web pour des conseils médicaux ou de l'utiliser dans un but commercial ou pour des produits commerciaux.
@@ -46,7 +46,7 @@ At present, this facility list includes 4,685 facilities that are hospitals, hea
 ## Citation
 Please use the following citation for these data: 
 
-Institute for Health Research, Epidemiological Surveillance and Training (IRESSEF), Department of Planning, Research, and Statistics (DPRS), Public Health Emergency Operations Center (COUS), National Agency of Statistics and Demography (ANSD), and Exemplars in Global Health (EGH). A consolidated and geolocated list of health facilities in Senegal. Version 21 May 2023.
+Institute for Health Research, Epidemiological Surveillance and Training (IRESSEF), Department of Planning, Research, and Statistics (DPRS), Public Health Emergency Operations Center (COUS), National Agency of Statistics and Demography (ANSD), and Exemplars in Global Health (EGH). A consolidated and geolocated list of health facilities in Senegal. Version 15 June 2023.
 
 ## Terms of use
 This GitHub repository and its contents herein, including all data, mapping, and analysis, copyright 2023 by IRESSEF, DPRS, COUS, ANSD, and EGH, all rights reserved, is provided to the public to support policy-making, planning, education, and academic research. The Website relies upon data from multiple sources that do not always agree. We hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce or commercial products is strictly prohibited. 
