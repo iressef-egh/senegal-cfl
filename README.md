@@ -3,7 +3,6 @@ _Pour la description en anglais, voir ci-dessous._
 _(For the description in English, please see below.)_
 
 Il s'agit d'un dépôt de données hébergeant une liste consolidée et géolocalisée des établissements au Sénégal. Il a été développé à travers la collaboration entre l'Institut de Recherche en Santé, de Surveillance Épidémiologique et de Formation (IRESSEF), le Département de la Planification, de la Recherche et des Statistiques (DPRS), le Centre des Opérations d’Urgence Sanitaire (COUS), l'Agence Nationale de Statistique et de la Démographie (ANSD), et Exemplars in Global Health (EGH) de Gates Ventures.
-Actuellement, cette liste inclut 4 685 établissements, parmi lesquels des hôpitaux, des centres de santé, des postes de santé et des cases de santé. 52 % de ces établissements sont actuellement géolocalisés (n = 2 414). 
 
 Actuellement, cette liste inclut 4 685 établissements, parmi lesquels des hôpitaux, des centres de santé, des postes de santé et des cases de santé. 52 % de ces établissements sont actuellement géolocalisés (n = 2 414).
 
