@@ -22,7 +22,7 @@ _Pour la description en anglais, voir ci-dessous. (For the description in Englis
 - **data_notes:** autres détails sur les besoins d'une vérification ou les questions de suivi en suspens concernant l'établissement précis. _Toutes les notes sont pour l'heure en anglais._  
 
 ## Liste complète des établissements   
-**données:** senegal_facilitylist_full.xlsx
+**données:** senegal_full_facilitylist.xlsx
 - **region:** région au Sénégal.  
 - **department:** unité ou subdivision administrative au sein des 14 Régions duSénégal, avec n = 45.  
    - _Remarque:_ le signalement des départements ou des districts de santé variait dans les sources de données (qui ne précisaient pas toujours ceux qui étaient inclus). Les informations sur les départements étaient cartographiées et les inexactitudes comptabilisées, mais certaines observations sur l'établissement/la source peuvent ne pas inclure un département.  
@@ -94,7 +94,7 @@ _Pour la description en français, voir ci-dessus. (For the description in Frenc
 - **data_notes:** further detail about outstanding verification needs or follow-up questions about the given facility. _All notes are in English at present._
 
 ## Full facility list 
-**data:** senegal_facilitylist_full.xlsx
+**data:** senegal_full_facilitylist.xlsx
 - **region:** region in Senegal.
 - **department:** formal second-level administrative unit for Senegal, with n=45.
    - _Note_: Data sources varied in their reporting of departments or health districts (and did not always specify which was included). Mapping capturing department information and accounting for inaccuracies occurred where possible, but some facility-source observations may not have a department included.
