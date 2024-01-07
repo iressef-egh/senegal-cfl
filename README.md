@@ -4,7 +4,7 @@ _(For the description in English, please see below.)_
 
 Il s'agit d'un dépôt de données hébergeant une liste consolidée et géolocalisée des établissements au Sénégal. Il a été développé à travers la collaboration entre l'Institut de Recherche en Santé, de Surveillance Épidémiologique et de Formation (IRESSEF), le Département de la Planification, de la Recherche et des Statistiques (DPRS), le Centre des Opérations d’Urgence Sanitaire (COUS), l'Agence Nationale de Statistique et de la Démographie (ANSD), et Exemplars in Global Health (EGH) de Gates Ventures.
 
-Actuellement, cette liste inclut 4 685 établissements, parmi lesquels des hôpitaux, des centres de santé, des postes de santé et des cases de santé. 52 % de ces établissements sont actuellement géolocalisés (n = 2 414).
+Actuellement, cette liste inclut 4 685 établissements, parmi lesquels des hôpitaux, des centres de santé, des postes de santé et des cases de santé. 52 % de ces établissements sont actuellement géolocalisés (n = 2 423).
 
 ![cfl_map](resources/cfl_map.png)
 
@@ -31,7 +31,7 @@ _(Pour la description en français, voir ci-dessus.)_
 
 This is a data repository for a consolidated and geolocated facility list in Senegal. It was developed by a collaboration between Institute for Health Research, Epidemiological Surveillance and Training (IRESSEF), Department of Planning, Research, and Statistics (DPRS), Public Health Emergency Operations Center (COUS), National Agency of Statistics and Demography (ANSD), and Exemplars in Global Health (EGH) at Gates Ventures.
 
-At present, this facility list includes 4,685 facilities that are hospitals, health centers, health posts, and health huts. 52% of these facilities are currently geolocated (n=2,414).
+At present, this facility list includes 4,685 facilities that are hospitals, health centers, health posts, and health huts. 52% of these facilities are currently geolocated (n=2,423).
 
 ![cfl_map](resources/cfl_map.png)
 
