@@ -14,8 +14,7 @@ Actuellement, cette liste inclut 4 685 établissements, parmi lesquels des hôpi
 **resources**: rapports et publications associés à l'ensemble de données.  
 
 ## Articles
-- Daouda M Gueye, Alioune Badara Ly, Babacar Gueye, Papa Ibrahima Ndour, Nancy Fullman, Patrick Y Liu, Khadim Mbaye, Aliou Diallo, Ibrahima Diatta, Saly Amos Diatta, Mouhamadou Moustapha Mane, Gloria Ikilezi, Moussa Sarr. "Vers la création d'une base de données de la liste complète des établissements au Sénégal: 
-approches et résultats de la triangulation des données existantes sur les établissements de santé." (_En anglais_) https://www.medrxiv.org/content/10.1101/2023.05.22.23290283v2
+- Daouda M Gueye, Alioune Badara Ly, Babacar Gueye, Papa Ibrahima Ndour, Nancy Fullman, Patrick Y Liu, Khadim Mbaye, Aliou Diallo, Ibrahima Diatta, Saly Amos Diatta, Mouhamadou Moustapha Mane, Gloria Ikilezi, Moussa Sarr. "Une liste consolidée et géolocalisée des établissements au Sénégal à partir de la triangulation des données secondaires." (_En anglais_)  https://www.medrxiv.org/content/10.1101/2023.05.22.23290283v4
 
 ## Citation
 Veuillez utiliser la citation suivante pour ces données:
@@ -41,7 +40,7 @@ At present, this facility list includes 4,685 facilities that are hospitals, hea
 **resources**: reports and publications associated with the dataset.  
 
 ## Articles  
-- Daouda M Gueye, Alioune Badara Ly, Babacar Gueye, Papa Ibrahima Ndour, Nancy Fullman, Patrick Y Liu, Khadim Mbaye, Aliou Diallo, Ibrahima Diatta, Saly Amos Diatta, Mouhamadou Moustapha Mane, Gloria Ikilezi, Moussa Sarr. "Toward building a master health facility list database in Senegal: approaches and outputs from triangulating secondary health facility data." _Pre-print:_ https://www.medrxiv.org/content/10.1101/2023.05.22.23290283v2
+- Daouda M Gueye, Alioune Badara Ly, Babacar Gueye, Papa Ibrahima Ndour, Nancy Fullman, Patrick Y Liu, Khadim Mbaye, Aliou Diallo, Ibrahima Diatta, Saly Amos Diatta, Mouhamadou Moustapha Mane, Gloria Ikilezi, Moussa Sarr. "A consolidated and geolocated facility list in Senegal from triangulating secondary data." _Pre-print:_ https://www.medrxiv.org/content/10.1101/2023.05.22.23290283v4
 
 ## Citation
 Please use the following citation for these data: 
